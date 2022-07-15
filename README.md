@@ -8,7 +8,7 @@
 - Create Index for some tables
 - Create STORE PROCEDURE, FUNCTION, TRIGGER
 - Create Query from basic -> advanced
-- Add, Delete, update data in the version
+- Add, Delete, update data tables in database
 
 ## Document:
 Please Read file **Flight and Passenger Management.pdf**
